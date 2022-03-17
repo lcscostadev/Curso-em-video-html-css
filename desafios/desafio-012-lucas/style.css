@@ -49,14 +49,7 @@ section > p{
     background: black url('imagens/background002.jpg') right center/cover no-repeat fixed;
 }
 
-.img-2-sec > p{
-    color: white;
-    background-color: rgba(0, 0, 0, 0.199);
-    backdrop-filter: blur(5px);
-    max-width: 360px;
-}
-
-.img-1-sec > p{
+.img-2-sec > p, .img-1-sec > p{
     color: white;
     background-color: rgba(0, 0, 0, 0.199);
     backdrop-filter: blur(5px);
